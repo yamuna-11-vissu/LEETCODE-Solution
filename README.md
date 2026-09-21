@@ -34,9 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/2413-smallest-even-multiple) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
