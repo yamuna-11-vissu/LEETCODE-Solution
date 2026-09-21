@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0002-add-two-numbers) |
+| [2413-smallest-even-multiple](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0160-intersection-of-two-linked-lists) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
