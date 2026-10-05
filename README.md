@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0066-plus-one) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/2413-smallest-even-multiple) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0066-plus-one) |
 | [1480-running-sum-of-1d-array](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
