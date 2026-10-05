@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
