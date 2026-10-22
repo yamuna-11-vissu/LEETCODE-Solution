@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0198-house-robber) |
 | [1480-running-sum-of-1d-array](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/3174-clear-digits) |
 ## Bracket Sequences
@@ -158,6 +160,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0657-robot-return-to-origin) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/3174-clear-digits) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
