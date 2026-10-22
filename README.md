@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1108-defanging-an-ip-address) |
+| [1544-make-the-string-great](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1768-merge-strings-alternately) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
