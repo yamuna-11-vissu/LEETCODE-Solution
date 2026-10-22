@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0383-ransom-note) |
+| [0657-robot-return-to-origin](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1108-defanging-an-ip-address) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
