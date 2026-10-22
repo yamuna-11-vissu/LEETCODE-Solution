@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0383-ransom-note](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0383-ransom-note) |
 ## Number Theory
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0383-ransom-note) |
 | [1021-remove-outermost-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0142-linked-list-cycle-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
