@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0198-house-robber) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
