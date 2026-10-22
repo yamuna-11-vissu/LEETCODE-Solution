@@ -100,14 +100,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yamuna-11-vissu/LEETCODE-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
